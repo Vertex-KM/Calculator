@@ -1,0 +1,29 @@
+#container {
+    margin-left: 10px;
+  }
+  
+.row {
+    display: flex;
+  }
+
+button {
+    width: 60px;
+    height: 60px;
+    font-size: 22px;
+}
+
+.display {
+  display: flex;
+  width: 242px;
+  height: 40px;
+  background-color: rgb(235, 227, 227);
+  border: 3px;
+  border-style: solid;
+  border-color: black;
+  margin: 15px;
+  margin-left: 0;
+  align-items: center;
+  justify-content: right;
+  font-size: 25px;
+  padding-right: 5px;
+}
